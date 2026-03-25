@@ -1,1 +1,70 @@
+ Directory of F:\Library\Manga\Hirano to Kagiura
 
+03/25/2026  12:50 PM    <DIR>          .
+03/24/2026  09:05 PM    <DIR>          ..
+03/24/2026  09:06 PM    <DIR>          Adult AU
+03/24/2026  09:31 PM    <DIR>          Volume 5
+03/24/2026  09:31 PM    <DIR>          Volume 6
+03/24/2026  09:09 PM    <DIR>          Volume 7
+03/24/2026  09:10 PM    <DIR>          Volume 8
+03/11/2026  08:25 AM         2,610,543 Vol.1 Ch.0 - Novel Extra.cbz
+03/11/2026  08:27 AM        40,700,431 Vol.1 Ch.1-4.5 [Yen Press Digital Batch Official].cbz
+03/11/2026  08:28 AM        47,544,251 Vol.2 Ch.5-10.5 [Yen Press Digital Batch Official].cbz
+03/11/2026  08:30 AM        42,902,116 Vol.3 Ch.11-15.5 [Yen Press Digital Batch Official].cbz
+03/11/2026  08:31 AM        56,137,426 Vol.4 Ch.16-20.5 [Yen Press Digital Batch Official].cbz
+
+ Directory of F:\Library\Manga\Hirano to Kagiura\Adult AU
+
+03/24/2026  09:06 PM    <DIR>          .
+03/25/2026  12:50 PM    <DIR>          ..
+03/11/2026  07:38 AM        14,724,364 Adult AU 1.cbz
+03/11/2026  07:36 AM        61,392,249 Adult AU 2.cbz
+
+ Directory of F:\Library\Manga\Hirano to Kagiura\Volume 5
+
+03/24/2026  09:31 PM    <DIR>          .
+03/25/2026  12:50 PM    <DIR>          ..
+03/11/2026  08:32 AM         1,435,527 Ch.20.5.cbz
+03/11/2026  08:32 AM         6,902,528 Ch.21.cbz
+03/11/2026  08:32 AM         8,790,270 Ch.22.cbz
+03/11/2026  08:32 AM         3,056,234 Ch.23.1.cbz
+03/11/2026  08:33 AM        30,955,701 Ch.23.2.cbz
+03/11/2026  08:34 AM        49,376,881 Ch.24.cbz
+03/24/2026  09:22 PM        22,531,331 Vol 5 extra.cbz
+
+ Directory of F:\Library\Manga\Hirano to Kagiura\Volume 6
+
+03/24/2026  09:31 PM    <DIR>          .
+03/25/2026  12:50 PM    <DIR>          ..
+03/11/2026  08:34 AM        22,044,904 Ch.25.cbz
+03/11/2026  08:34 AM        14,759,131 Ch.26.cbz
+03/11/2026  08:35 AM        14,795,957 Ch.27.cbz
+03/11/2026  08:35 AM        33,105,244 Ch.28.cbz
+03/11/2026  08:36 AM        37,885,219 Ch.29.cbz
+03/11/2026  08:36 AM        12,937,599 Ch.30.cbz
+03/24/2026  09:30 PM       101,428,678 Vol. 6 extra.cbz
+
+ Directory of F:\Library\Manga\Hirano to Kagiura\Volume 7
+
+03/24/2026  09:09 PM    <DIR>          .
+03/25/2026  12:50 PM    <DIR>          ..
+03/11/2026  08:37 AM        39,878,877 Ch.31.cbz
+03/11/2026  08:37 AM        10,716,724 Ch.32a.cbz
+03/11/2026  08:37 AM         8,372,515 Ch.32b.cbz
+03/11/2026  08:38 AM        13,238,163 Ch.33a.cbz
+03/11/2026  08:39 AM        29,254,400 Ch.33b.cbz
+03/24/2026  09:04 PM         6,246,098 Ch.33c.cbz
+
+ Directory of F:\Library\Manga\Hirano to Kagiura\Volume 8
+
+03/24/2026  09:10 PM    <DIR>          .
+03/25/2026  12:50 PM    <DIR>          ..
+03/24/2026  09:03 PM        45,858,550 Ch.34.cbz
+
+--------------------------------------------------------------------
+- Yen Press Digital Batch Official Vols 1-4 was obtained from https://www.mangago.me/read-manga/hirano_to_kagiura/
+- Adult AU was and Vol. 5 extra was obtained from https://drive.google.com/drive/folders/1FjX9LWrkljdIVpynk0rnzFfo3n8GUYKg
+- Vol.6 extra was obtained from https://mangadex.org/chapter/6609522c-362f-4f77-bb77-2ad5f6f3b6c8
+- The rest of the chapters can be found on
+  - https://www.mangago.me/read-manga/hirano_to_kagiura/
+  - https://mangadex.org/title/d0f286ac-9ecf-4472-a3d7-1009eb0199e2/hirano-to-kagiura
